@@ -7,7 +7,7 @@ EOCore is a shared utility library used by IBM's DigitalAnalytics and Tealeaf iO
 
 ### Prerequisites
 
-You need to have recent cocoapods version install on your Mac OS. Current version is 1.4.0. Please refer to cocoapods website for the details.
+You need to have recent cocoapods version installed on your Mac OS. Current version is 1.4.0. Please refer to cocoapods website for the details.
 
 ### Installing
 
