@@ -26,7 +26,7 @@ If you are using Debug version of EOCore. i.e. pod EOCoreDebug used by pods IBMT
 
 ## Versioning
 
-Current stable version of EOCore is 2.0.0.80
+Current stable version of EOCore is 2.0.0.81
 
 
 ## License
