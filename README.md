@@ -24,11 +24,6 @@ If you are using Debug version of EOCore. i.e. pod EOCoreDebug used by pods IBMT
 * [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - IBM Customer Behavioral Analytics SDK
 
 
-## Versioning
-
-Current stable version of EOCore is 2.0.0.81
-
-
 ## License
 
 License files can be read [here](https://github.com/ibm-watson-cxa/EOCore/tree/master/Licenses)
