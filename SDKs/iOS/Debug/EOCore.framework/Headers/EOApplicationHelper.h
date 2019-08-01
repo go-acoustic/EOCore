@@ -1,6 +1,6 @@
 //
 //  Licensed Materials - Property of IBM
-//  (C) Copyright IBM Corp. 2017
+//  (C) Copyright IBM Corp. 2019
 //  US Government Users Restricted Rights - Use, duplication or disclosure
 //  restricted by GSA ADP Schedule Contract with IBM Corp.
 //
@@ -8,11 +8,10 @@
 /*!
  @file EOApplicationHelper.h
  @brief Header file defining all manual API calls that can be made to the TeaLeaf library
- @copyright IBM Corp. 2017
- @version 9.0.2
+ @copyright IBM Corp. 2019
  */
 #import <Foundation/Foundation.h>
-#import "EOCore/String Types/NSString+EOCoreExtensions.h"
+#import <EOCore/NSString+EOCoreExtensions.h>
 
 /* Module Names */
 #define kEOCoreModule @"EOCore"
