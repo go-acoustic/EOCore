@@ -1,6 +1,6 @@
 # EOCore
 
-EOCore is a shared utility library used by IBM's DigitalAnalytics and Tealeaf iOS SDKs.
+EOCore is a shared utility library used by Acoustic's DigitalAnalytics and Tealeaf iOS SDKs.
 
 
 ## Getting Started
@@ -20,11 +20,11 @@ If you are using Debug version of EOCore. i.e. pod EOCoreDebug used by pods IBMT
 
 ## Used By
 
-* [DigitalAnalytics](https://github.com/ibm-watson-cxa/DigitalAnalytics) - IBM Digital Analytics SDK
-* [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - IBM Customer Behavioral Analytics SDK
+* [DigitalAnalytics](https://github.com/acoustic-analytics/DigitalAnalytics) - Acoustic Digital Analytics SDK
+* [Tealeaf](https://github.com/acoustic-analytics/IBMTealeaf) - Acoustic Customer Behavioral Analytics SDK
 
 
 ## License
 
-License files can be read [here](https://github.com/ibm-watson-cxa/EOCore/tree/master/Licenses)
+License files can be read [here](https://github.com/acoustic-analytics/EOCore/tree/master/Licenses)
 
