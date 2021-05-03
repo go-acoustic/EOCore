@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>EOCoreSettings.bundle/EOCoreAdvancedConfig.json</key>
+		<data>
+		ohNsuvU0bHGm5XnRwPkxmoUeMWg=
+		</data>
+		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
+		<data>
+		mAxVIEXHt1oGRe+jgamVXM9uS+I=
+		</data>
 		<key>Headers/EOApplicationHelper.h</key>
 		<data>
 		iKaO2RnzrDwXTxZ02C71Gd2CXKQ=
@@ -22,7 +30,7 @@
 		</data>
 		<key>Headers/EOPublicHeader.h</key>
 		<data>
-		HCwqfJxOmIwkmk1OCCxD+8iYceQ=
+		qIG1MRuMrLNDpY1bQ+jFHiAn4Vg=
 		</data>
 		<key>Headers/EOReachability.h</key>
 		<data>
@@ -47,6 +55,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>EOCoreSettings.bundle/EOCoreAdvancedConfig.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ohNsuvU0bHGm5XnRwPkxmoUeMWg=
+			</data>
+			<key>hash2</key>
+			<data>
+			gVTJRnTNutcrlUh4+asyLEQOV2Jt7+67Y3ok4zBFy3Y=
+			</data>
+		</dict>
+		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mAxVIEXHt1oGRe+jgamVXM9uS+I=
+			</data>
+			<key>hash2</key>
+			<data>
+			WOvH8vEwCDK33IgqmAMtwGD2oBLPvbYE5JuNZhqhr6o=
+			</data>
+		</dict>
 		<key>Headers/EOApplicationHelper.h</key>
 		<dict>
 			<key>hash</key>
@@ -95,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HCwqfJxOmIwkmk1OCCxD+8iYceQ=
+			qIG1MRuMrLNDpY1bQ+jFHiAn4Vg=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+G7IPTUykbVWyNH02SynlROQNpwPJvDwhsYTxR+6VI=
+			OFFIl/kLMzeC15vG9x1FG8fc+In8CLBQdUUyykDPRSA=
 			</data>
 		</dict>
 		<key>Headers/EOReachability.h</key>
