@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.resource = "SDKs/iOS/Debug/EOCore.xcframework/*/EOCore.framework/EOCoreSettings.bundle"
   s.xcconfig = { 'HEADER_SEARCH_PATHS' => '"$(PODS_ROOT)/SDKs/iOS/Debug/EOCore.xcframework/*/EOCore.framework/Headers/"/** ' }
   s.source = { :git => 'https://github.com/acoustic-analytics/EOCore.git', :tag => '2.3.50'}
-  s.vendored_frameworks = 'SDKs/iOS/Debug/EOCore.xcframework'
+  s.vendored_frameworks = 'SDKs/iOS/Debug/EOCore.framework'
 end
