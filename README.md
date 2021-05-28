@@ -15,13 +15,13 @@ You do not need to use EOCore directly. Tealeaf and DigitalAnalytics dependencie
 
 ## Troubleshooting
 
-If you are using Debug version of EOCore. i.e. pod EOCoreDebug used by pods IBMTealeafDebug and DigitalAnalyticsDebug, then you may edit your project's scheme in XCode and add environmental variable EODebug and set its value to 1. This will make EOCore to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics and Tealeaf support engineers will ask you for these logs.
+If you are using Debug version of EOCore. i.e. pod EOCoreDebug used by pods TealeafDebug and DigitalAnalyticsDebug, then you may edit your project's scheme in XCode and add environmental variable EODebug and set its value to 1. This will make EOCore to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics and Tealeaf support engineers will ask you for these logs.
 
 
 ## Used By
 
 * [DigitalAnalytics](https://github.com/acoustic-analytics/DigitalAnalytics) - Acoustic Digital Analytics SDK
-* [Tealeaf](https://github.com/acoustic-analytics/IBMTealeaf) - Acoustic Customer Behavioral Analytics SDK
+* [Tealeaf](https://github.com/acoustic-analytics/Tealeaf) - Acoustic Customer Behavioral Analytics SDK
 
 
 ## License
