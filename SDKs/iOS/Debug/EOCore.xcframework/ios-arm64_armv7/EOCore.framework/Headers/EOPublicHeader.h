@@ -11,7 +11,7 @@
 // prohibited.
 //
 
-#define EOCORE_FRAMEWORK_VER @"2.3.106"
+#define EOCORE_FRAMEWORK_VER @"2.3.107"
 
 // Constants Config Items
 #define kEOConfig_CriticalBatteryLevel @"CriticalBatteryLevel"
