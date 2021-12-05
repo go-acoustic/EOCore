@@ -6,7 +6,7 @@
 	<dict>
 		<key>EOCoreSettings.bundle/EOCoreAdvancedConfig.json</key>
 		<data>
-		O1asn580do+wCniGj0L/uj3/6e0=
+		kr71QBFgeWswflUVMd6fX4D8GXA=
 		</data>
 		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/EOPublicHeader.h</key>
 		<data>
-		kG0Aq0caiSNR+KB56OdmIXMvtDA=
+		/MMghtxRKtYVaJA1PfROE9RPllg=
 		</data>
 		<key>Headers/EOReachability.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kTGY2RWlTeKN8HetR67m6kJed+M=
+		//OfZ/x0eafgiCP2SlPNFp6JKF8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O1asn580do+wCniGj0L/uj3/6e0=
+			kr71QBFgeWswflUVMd6fX4D8GXA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YJo5txttSTNMaRAgypiY7m/ugvlPQP+x2fGftlYjWcY=
+			4kab6Dqc7GKBsMBZCJMwvdxEsHBmg17jn7dSq3sBjqQ=
 			</data>
 		</dict>
 		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kG0Aq0caiSNR+KB56OdmIXMvtDA=
+			/MMghtxRKtYVaJA1PfROE9RPllg=
 			</data>
 			<key>hash2</key>
 			<data>
-			HWsQ5VMrXcG+PvHgd7RvJLo/BiJOTYuERorKWisd/NY=
+			NeMZ0DXz85spKkGtqQfgv1Dhfm9i3VEfNqRnoRJC8ZU=
 			</data>
 		</dict>
 		<key>Headers/EOReachability.h</key>
