@@ -6,6 +6,6 @@
     "CompressPostMessage": 1,
     "TurnOffCorrectOrientationUpdates": false,
     "DefaultOrientation": 0,
-    "LibraryVersion": "2.3.202",
+    "LibraryVersion": "2.3.203",
     "MessageVersion": "6.0.0.0"
 }
