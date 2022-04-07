@@ -2,7 +2,7 @@
 //  EOCore.h
 //  EOCore
 //
-// Copyright (C) 2020 Acoustic, L.P. All rights reserved.
+// Copyright (C) 2022 Acoustic, L.P. All rights reserved.
 //
 // NOTICE: This file contains material that is confidential and proprietary to
 // Acoustic, L.P. and/or other developers. No license is granted under any intellectual or
@@ -128,7 +128,7 @@
  * @return If the configuration data was successfully updated or not.
  */
 - (BOOL)updateConfigForModuleName:(NSString *)moduleName withData:(NSDictionary *)newConfig;
-- (unsigned long long)getCurrentSessionStartTimeforModuleName:(NSString *)moduleName;
+- (double)getCurrentSessionStartTimeforModuleName:(NSString *)moduleName;
 -(NSString *)getConfigItemAsString:(NSString *)key forModuleName:(NSString *)moduleName;
 -(NSNumber *)getConfigItemAsNumber:(NSString *)key forModuleName:(NSString *)moduleName;
 -(BOOL ) getConfigItemAsBool:(NSString *)key withDefault:(BOOL)theDefault forModuleName:(NSString *)moduleName;
@@ -140,7 +140,6 @@
  * @return The device ID
  */
 - (NSString *)deviceID;
-//- (NSString *)generateDeviceID;
 - (NSString *)generateUUID;
 - (BOOL)setEOAdvertisingId:(NSString*)eoAdvertisingId;
 - (NSString*)getEOAdvertisingId;
