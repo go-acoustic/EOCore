@@ -21,7 +21,7 @@
  * @discussion EOCore will update this offset automatically when the message is posted to the queue.
  * @return The offset in seconds.
  */
-@property (nonatomic) double offset;
+@property (nonatomic) unsigned long long offset;
 
 /*!
  * @abstract The logging level of the EOMessage.

@@ -128,11 +128,11 @@
  * @return If the configuration data was successfully updated or not.
  */
 - (BOOL)updateConfigForModuleName:(NSString *)moduleName withData:(NSDictionary *)newConfig;
-- (double)getCurrentSessionStartTimeforModuleName:(NSString *)moduleName;
--(NSString *)getConfigItemAsString:(NSString *)key forModuleName:(NSString *)moduleName;
--(NSNumber *)getConfigItemAsNumber:(NSString *)key forModuleName:(NSString *)moduleName;
--(BOOL ) getConfigItemAsBool:(NSString *)key withDefault:(BOOL)theDefault forModuleName:(NSString *)moduleName;
--(NSNumber *)defaultLogLevel;
+- (unsigned long long)getCurrentSessionStartTimeforModuleName:(NSString *)moduleName;
+- (NSString *)getConfigItemAsString:(NSString *)key forModuleName:(NSString *)moduleName;
+- (NSNumber *)getConfigItemAsNumber:(NSString *)key forModuleName:(NSString *)moduleName;
+- (BOOL ) getConfigItemAsBool:(NSString *)key withDefault:(BOOL)theDefault forModuleName:(NSString *)moduleName;
+- (NSNumber *)defaultLogLevel;
 
 /*!
  * @abstract Generate device ID for Session
