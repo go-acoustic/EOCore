@@ -6,7 +6,7 @@
 	<dict>
 		<key>EOCoreSettings.bundle/EOCoreAdvancedConfig.json</key>
 		<data>
-		ne/4t3OR1Y7xtz9L2jre4ipCY4s=
+		wWm0YV57uBw3RJb5gZcKNTFuevI=
 		</data>
 		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/EOPublicHeader.h</key>
 		<data>
-		rtJYrKfZhVrhgpfXzkSoK/qoAwg=
+		Qi0Gs0IhHvOCkvf5LG/IjslmEpM=
 		</data>
 		<key>Headers/EOReachability.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		j3tUgDnoMoj7uYPeCu++kt03ySE=
+		zmKwDp0Qwi5RHAw8xNhCMQoiIFY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,21 +57,13 @@
 	<dict>
 		<key>EOCoreSettings.bundle/EOCoreAdvancedConfig.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ne/4t3OR1Y7xtz9L2jre4ipCY4s=
-			</data>
 			<key>hash2</key>
 			<data>
-			4/tV3D5b216riMzKoQF4oB0Xj/YtfQPZrcYbMTpY+nY=
+			e/ScuEZeGkaThiF2HOss9OzGCLbSAEmT45P3+sN76jw=
 			</data>
 		</dict>
 		<key>EOCoreSettings.bundle/EOCoreBasicConfig.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mAxVIEXHt1oGRe+jgamVXM9uS+I=
-			</data>
 			<key>hash2</key>
 			<data>
 			WOvH8vEwCDK33IgqmAMtwGD2oBLPvbYE5JuNZhqhr6o=
@@ -79,10 +71,6 @@
 		</dict>
 		<key>Headers/EOApplicationHelper.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iKaO2RnzrDwXTxZ02C71Gd2CXKQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			xVHdW3EWdC3bos367A1NSnU7d7DeHr/CVnQScfzt29c=
@@ -90,10 +78,6 @@
 		</dict>
 		<key>Headers/EOCore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TH7uCuxaO1kVtTE42njhHJFOF0U=
-			</data>
 			<key>hash2</key>
 			<data>
 			H0K6whjJvoNihp/VlcMApUUyOUj3IL5bPKWskxgSO94=
@@ -101,10 +85,6 @@
 		</dict>
 		<key>Headers/EOLifecycleObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YFjoqMN72AR5zzcuM1ZpJSwWV6c=
-			</data>
 			<key>hash2</key>
 			<data>
 			AF4jklNiTQ/eWw2R98G9ypuTXrRvIpiH8Pnp7sLFWfI=
@@ -112,10 +92,6 @@
 		</dict>
 		<key>Headers/EOMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O5eWFffhLa3vu2Ef2lXwnFNp38I=
-			</data>
 			<key>hash2</key>
 			<data>
 			DClrc6mHLIuCjKub2uUf2+AP6gc8O/0eUNopyywkIpQ=
@@ -123,21 +99,13 @@
 		</dict>
 		<key>Headers/EOPublicHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rtJYrKfZhVrhgpfXzkSoK/qoAwg=
-			</data>
 			<key>hash2</key>
 			<data>
-			h/lkRI48kjLTAhN8Yf4HckKSyQV8/d/cqI7jhY05/74=
+			KeKTuDlG4TYb15zhUYonn5fsTbwcWVxP0LB9SxTdb1I=
 			</data>
 		</dict>
 		<key>Headers/EOReachability.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kRP5UfShrAmRtPXzcKo7PxTpFOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			q7WXE+3iDoVd73hddOcfeJe1DwP3brv/PGbLBJLq9lo=
@@ -145,10 +113,6 @@
 		</dict>
 		<key>Headers/NSDictionary+EOCoreExtensions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			z7UvXTu11kFLUXY/o2cqBCOGldo=
-			</data>
 			<key>hash2</key>
 			<data>
 			+TqH7WTHCKUaMGUv123dn1Rgp37OSLVscWJVM7lQoK8=
@@ -156,10 +120,6 @@
 		</dict>
 		<key>Headers/NSString+EOCoreExtensions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ly7chhO5AUL/3sBXR65SrhRVxSI=
-			</data>
 			<key>hash2</key>
 			<data>
 			XdaxnBNRJkbEGZN1bDtHXUIhC1QuWHZGIYXHzpXu/Ko=
@@ -167,10 +127,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zOHk34p/8lfCVO1uDJD9X9agqLM=
-			</data>
 			<key>hash2</key>
 			<data>
 			2h7KZUrJLOLidZBskijsOHGeczELkHQSqqL3+9qclNc=
