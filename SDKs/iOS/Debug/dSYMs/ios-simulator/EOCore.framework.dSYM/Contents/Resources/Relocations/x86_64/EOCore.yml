@@ -248,8 +248,8 @@ relocations:
   - { offsetInCU: 0xAD3, offset: 0x8A60, size: 0x8, addend: 0x0, symName: '-[EOSession .cxx_destruct]', symObjAddr: 0x35F0, symBinAddr: 0x18B70, symSize: 0x5E }
   - { offsetInCU: 0x27, offset: 0x9078, size: 0x8, addend: 0x0, symName: '+[EOMobileEnvironment sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x18BD0, symSize: 0xB0 }
   - { offsetInCU: 0x34, offset: 0x9085, size: 0x8, addend: 0x0, symName: '+[EOMobileEnvironment sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x18BD0, symSize: 0xB0 }
-  - { offsetInCU: 0x5D, offset: 0x90AE, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xABE8, symBinAddr: 0xB4D20, symSize: 0x0 }
-  - { offsetInCU: 0x72, offset: 0x90C3, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xABF0, symBinAddr: 0xB4D28, symSize: 0x0 }
+  - { offsetInCU: 0x5D, offset: 0x90AE, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xABF0, symBinAddr: 0xB4D20, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x90C3, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xABF8, symBinAddr: 0xB4D28, symSize: 0x0 }
   - { offsetInCU: 0x1BA, offset: 0x920B, size: 0x8, addend: 0x0, symName: '-[EOMobileEnvironment localeData]', symObjAddr: 0x880, symBinAddr: 0x19450, symSize: 0xA00 }
   - { offsetInCU: 0x1E3, offset: 0x9234, size: 0x8, addend: 0x0, symName: _localeData.eoDebug, symObjAddr: 0x5B48, symBinAddr: 0xB41C8, symSize: 0x0 }
   - { offsetInCU: 0x1F8, offset: 0x9249, size: 0x8, addend: 0x0, symName: _localeData.eoDebugKiwi, symObjAddr: 0x5B4C, symBinAddr: 0xB41CC, symSize: 0x0 }
@@ -259,7 +259,7 @@ relocations:
   - { offsetInCU: 0x301, offset: 0x9352, size: 0x8, addend: 0x0, symName: _readMachineNameHW.eoDebugKiwi, symObjAddr: 0x5B58, symBinAddr: 0xB41D8, symSize: 0x0 }
   - { offsetInCU: 0x316, offset: 0x9367, size: 0x8, addend: 0x0, symName: _readMachineNameHW.eoMiCloudSDKMachine, symObjAddr: 0x5B5C, symBinAddr: 0xB41DC, symSize: 0x0 }
   - { offsetInCU: 0x3D3, offset: 0x9424, size: 0x8, addend: 0x0, symName: '-[EOMobileEnvironment readMachineNameEnglish]', symObjAddr: 0x1F30, symBinAddr: 0x1AB00, symSize: 0x13E0 }
-  - { offsetInCU: 0x3FC, offset: 0x944D, size: 0x8, addend: 0x0, symName: _readMachineNameEnglish.deviceNamesByCode, symObjAddr: 0xABF8, symBinAddr: 0xB4D30, symSize: 0x0 }
+  - { offsetInCU: 0x3FC, offset: 0x944D, size: 0x8, addend: 0x0, symName: _readMachineNameEnglish.deviceNamesByCode, symObjAddr: 0xAC00, symBinAddr: 0xB4D30, symSize: 0x0 }
   - { offsetInCU: 0x411, offset: 0x9462, size: 0x8, addend: 0x0, symName: _readMachineNameEnglish.eoDebug, symObjAddr: 0x5B60, symBinAddr: 0xB41E0, symSize: 0x0 }
   - { offsetInCU: 0x426, offset: 0x9477, size: 0x8, addend: 0x0, symName: _readMachineNameEnglish.eoDebugKiwi, symObjAddr: 0x5B64, symBinAddr: 0xB41E4, symSize: 0x0 }
   - { offsetInCU: 0x43B, offset: 0x948C, size: 0x8, addend: 0x0, symName: _readMachineNameEnglish.eoMiCloudSDKMachine, symObjAddr: 0x5B68, symBinAddr: 0xB41E8, symSize: 0x0 }
@@ -1056,8 +1056,8 @@ relocations:
   - { offsetInCU: 0x597, offset: 0x1F9B1, size: 0x8, addend: 0x0, symName: '+[EODataCompression load]', symObjAddr: 0x0, symBinAddr: 0x72260, symSize: 0x50 }
   - { offsetInCU: 0x27, offset: 0x2000C, size: 0x8, addend: 0x0, symName: '+[EOConfigService sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x73DC0, symSize: 0xB0 }
   - { offsetInCU: 0x34, offset: 0x20019, size: 0x8, addend: 0x0, symName: '+[EOConfigService sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x73DC0, symSize: 0xB0 }
-  - { offsetInCU: 0x5D, offset: 0x20042, size: 0x8, addend: 0x0, symName: _sharedInstance._singletonPredicate, symObjAddr: 0x2F528, symBinAddr: 0xB4D78, symSize: 0x0 }
-  - { offsetInCU: 0x72, offset: 0x20057, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0x2F530, symBinAddr: 0xB4D80, symSize: 0x0 }
+  - { offsetInCU: 0x5D, offset: 0x20042, size: 0x8, addend: 0x0, symName: _sharedInstance._singletonPredicate, symObjAddr: 0x2F530, symBinAddr: 0xB4D78, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x20057, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0x2F538, symBinAddr: 0xB4D80, symSize: 0x0 }
   - { offsetInCU: 0x1AD, offset: 0x20192, size: 0x8, addend: 0x0, symName: '-[EOConfigService enable]', symObjAddr: 0x1D0, symBinAddr: 0x73F90, symSize: 0x4F0 }
   - { offsetInCU: 0x1D6, offset: 0x201BB, size: 0x8, addend: 0x0, symName: _enable.eoDebug, symObjAddr: 0x1F980, symBinAddr: 0xB4A98, symSize: 0x0 }
   - { offsetInCU: 0x1EB, offset: 0x201D0, size: 0x8, addend: 0x0, symName: _enable.eoDebugKiwi, symObjAddr: 0x1F984, symBinAddr: 0xB4A9C, symSize: 0x0 }

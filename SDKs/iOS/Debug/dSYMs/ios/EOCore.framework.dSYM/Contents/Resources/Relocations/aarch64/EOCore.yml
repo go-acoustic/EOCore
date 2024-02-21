@@ -550,8 +550,8 @@ relocations:
   - { offsetInCU: 0x377E, offset: 0xEC94, size: 0x8, addend: 0x0, symName: '-[EOQueueService .cxx_destruct]', symObjAddr: 0x17C54, symBinAddr: 0x33EDC, symSize: 0x78 }
   - { offsetInCU: 0x27, offset: 0xF86E, size: 0x8, addend: 0x0, symName: '+[EOCoreHelper sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x33F54, symSize: 0xB4 }
   - { offsetInCU: 0x34, offset: 0xF87B, size: 0x8, addend: 0x0, symName: '+[EOCoreHelper sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x33F54, symSize: 0xB4 }
-  - { offsetInCU: 0x5D, offset: 0xF8A4, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x1260, symBinAddr: 0xA4BE0, symSize: 0x0 }
-  - { offsetInCU: 0x72, offset: 0xF8B9, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0x1268, symBinAddr: 0xA4BE8, symSize: 0x0 }
+  - { offsetInCU: 0x5D, offset: 0xF8A4, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x1268, symBinAddr: 0xA4BE0, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0xF8B9, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0x1270, symBinAddr: 0xA4BE8, symSize: 0x0 }
   - { offsetInCU: 0x1CD, offset: 0xFA14, size: 0x8, addend: 0x0, symName: '___30+[EOCoreHelper sharedInstance]_block_invoke', symObjAddr: 0xB4, symBinAddr: 0x34008, symSize: 0x4C }
   - { offsetInCU: 0x20A, offset: 0xFA51, size: 0x8, addend: 0x0, symName: '-[EOCoreHelper now]', symObjAddr: 0x100, symBinAddr: 0x34054, symSize: 0x64 }
   - { offsetInCU: 0x27, offset: 0xFB50, size: 0x8, addend: 0x0, symName: '-[EOClientEnvironment jsonDictionary]', symObjAddr: 0x0, symBinAddr: 0x340B8, symSize: 0x3D8 }
